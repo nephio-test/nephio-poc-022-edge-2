@@ -20,3 +20,4 @@ upstreamLock:
     commit: 9560c8351ab31b3f64bc1150fc0605c85cd8d6ec
 info:
   description: Operator package for free5gc Nephio integration
+status: {}
